@@ -45,5 +45,5 @@ Puis, la matrice:
 | 1/(ar.thfov) | 0 | 0 | 0 |
 | 0 | 1/thfov | 0 | 0 |
 | 0 | 0 | zFar/(zNear-zFar) | -1 |
-| 0 | 0 | -(zFar.zNear)/(zFar-zNear) | 1 |
+| 0 | 0 | -(zFar.zNear)/(zFar-zNear) | 0 |
 
