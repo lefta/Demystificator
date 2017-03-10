@@ -46,6 +46,5 @@ l'objet changera et il ne se déplacera plus dans la même direction.
 
 ## Construire la matrice MVP finale
 
-Encore une fois, l'ordre importe. N'ayant pas (encore) utilisé de matrice de vue, je ne peux que
-vous faire construire une matrice MP. Pour celà, multipliez la matrice de projection par la matrice
-de modèle.
+Encore une fois, l'ordre importe. Le bon ordre pour construire la matrice est
+`projection.vue.modèle`.
