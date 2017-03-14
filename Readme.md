@@ -33,10 +33,6 @@ que vous cherchez rapidement
 
 ## Ce que vous ne trouverez pas
 
-* Des notions déjà expliquées en français de façon claire ailleurs
-
-Les pointeurs sont très bien expliqués sur OpenClassroom par exemple.
-
 * Des bouts de programme
 
 Le but n'est pas de faire vos programmes à votre place, juste de vous apprendre ce qui vous est
@@ -54,7 +50,6 @@ Par exemple, vous ne trouverez pas la liste des fonctions d'une bibliothèque / 
 * Sur quelles notions porte le cours
 * Quelle(s) notion(s) sont nécessaires pour comprendre ce cours (en dehors de connaitre un language
 de programmation)
-* Quelles raisons ont poussé l'auteur à l'écrire
 * À quoi ce cours peut être appliqué
 * L'auteur du cours.
 

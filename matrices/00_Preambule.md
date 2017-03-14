@@ -26,15 +26,6 @@ Projets de 42:
 'basiques'
 * Scop: Obligatoire
 
-## Pourquoi?
-
-La plupart des resources que j'ai pu trouver sont soit trop théoriques et ne permettent pas de
-transformer les objets telles quelles, soit incomplètes, soit difficiles à trouver, sans parler des
-cours nous redirigeant vers une bibliothèque (généralement GLM).
-
-Ce cours est le résultat de mes recherches, de ma compréhension des resources trouvées et leur
-fusion.
-
 ## L'auteur
 
 Cédric Legrand, a.k.a. Lefta.
