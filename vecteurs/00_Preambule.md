@@ -1,4 +1,4 @@
-# Les matrices - Préambule
+# Les vecteurs - Préambule
 
 ## Ce que vous apprendrez
 
