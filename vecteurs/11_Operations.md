@@ -16,6 +16,15 @@ Les valeurs non utilisées peuvent être omises des calculs.
     zr = z1 - z2;
     wr = w1 - w2;
 
+## Le produit mixte (comb)
+
+Le produit mixte est parfois aussi appelé (abusivement) produit vectoriel. Si vous entendez parler
+de produit vectoriel sur un veteur 2D, il s'agit d'un produit mixte.
+
+Ce calcul n'est applicable qu'aux vecteurs 2D
+
+    x1 * y2 - x2 * y1
+
 ## La longueur (len)
 
     sqrt(x.x + y.y + z.z)
