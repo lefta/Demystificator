@@ -22,18 +22,18 @@ Les valeurs non utilisées peuvent être omises des calculs.
 
 ## La normalisation (normal)
 
-    rx = x1 / len(v1)
-    ry = y1 / len(v1)
-    rz = z1 / len(v1)
-    rw = w1 / len(v1)
+    xr = x1 / len(v1)
+    yr = y1 / len(v1)
+    zr = z1 / len(v1)
+    wr = w1 / len(v1)
 
 ## Produit vectoriel (cross)
 
 Ce calcul n'est applicable qu'aux vecteurs 3D (à trois ou quatre composantes)
 
-    rx = y1.z2 - z1.y2
-    ry = z1.x2 - x1.z2
-    rz = x1.y2 - y1.x2
+    xr = y1.z2 - z1.y2
+    yr = z1.x2 - x1.z2
+    zr = x1.y2 - y1.x2
 
 ## Produit scalaire (dot)
 
